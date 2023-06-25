@@ -1,5 +1,19 @@
 ### Hi there 👋
 
+<p align="center">
+    <b>Welcome to my page!</b><br><br>
+    <i>
+        I'm Vivi<br>
+        And this is how you can reach me
+    </i><br>
+    <a href="https://www.linkedin.com/in/vivi-chiciudean-7a540b19a/">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+    </a>
+    <a href="mailto:vivian.chiciudean@cs.utcluj.ro">
+        <img src="https://img.shields.io/badge/Email-blue?style=flat-square&logo=gmail&logoColor=white" alt="e-mail">
+    </a>
+</p>
+
 <!--
 **vivichiciudean/vivichiciudean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
