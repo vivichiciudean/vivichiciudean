@@ -2,13 +2,17 @@
 
 <p align="center">
 <font size="+2">
-   This is how you can reach me
+   📫 This is how you can reach me
     </i><br>
     <a href="https://www.linkedin.com/in/vivi-chiciudean-7a540b19a/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
     <a href="mailto:vivian.chiciudean@cs.utcluj.ro">
         <img src="https://img.shields.io/badge/Email-blue?style=flat-square&logo=gmail&logoColor=white" alt="e-mail">
+    </a>
+    Learn more about me on my personal 
+    <a href="https://vivian-chiciudean.netlify.app/">
+       website
     </a>
 </font>
 </p>
