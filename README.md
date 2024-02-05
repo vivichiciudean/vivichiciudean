@@ -12,7 +12,7 @@
     </a>
     </i><br>
     </i><br>
-    Learn more about me on my personal 
+    Learn more about me from my personal 
     <a href="https://vivian-chiciudean.netlify.app/">
        website 
     </a>
