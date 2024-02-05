@@ -10,7 +10,9 @@
     <a href="mailto:vivian.chiciudean@cs.utcluj.ro">
         <img src="https://img.shields.io/badge/Email-blue?style=flat-square&logo=gmail&logoColor=white" alt="e-mail">
     </a>
+    </i><br>
     Learn more about me on my personal 
+    </i><br>
     <a href="https://vivian-chiciudean.netlify.app/">
        website
     </a>
