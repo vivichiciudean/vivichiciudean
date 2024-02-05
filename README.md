@@ -2,7 +2,7 @@
 
 <p align="center">
 <font size="+2">
-   📫 This is how you can reach me
+    This is how you can reach me 📫
     </i><br>
     <a href="https://www.linkedin.com/in/vivi-chiciudean-7a540b19a/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
@@ -13,10 +13,10 @@
     </i><br>
     </i><br>
     Learn more about me on my personal 
-    </i><br>
     <a href="https://vivian-chiciudean.netlify.app/">
-       website
+       website 
     </a>
+    🌐
 </font>
 </p>
 
