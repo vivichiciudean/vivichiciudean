@@ -4,7 +4,7 @@
 <font size="+2">
     This is how you can reach me 📫
     </i><br>
-    <a href="https://www.linkedin.com/in/vivi-chiciudean-7a540b19a/">
+    <a href="https://www.linkedin.com/in/vivian-chiciudean/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
     <a href="mailto:vivian.chiciudean@cs.utcluj.ro">
