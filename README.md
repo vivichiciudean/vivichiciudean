@@ -13,7 +13,7 @@
     </i><br>
     </i><br>
     Learn more about me from my personal 
-    <a href="https://vivian-chiciudean.netlify.app/">
+    <a href="https://users.utcluj.ro/~vivianc/">
        website 
     </a>
     🌐
